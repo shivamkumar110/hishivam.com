@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/shivam.png"
+imageAlt: "Shivam Kumar"
 ---
 
 I am a Computer Science & Engineering Graduate from one of India's premier institutes i.e. Indian Institute of Infomation Technology, Design & Manufacturing.
