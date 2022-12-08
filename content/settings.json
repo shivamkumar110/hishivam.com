@@ -1,11 +1,11 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://hishivam.com/",
     "title": "Shivam Kumar | Software Engineer",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "",
-    "author": "Konstantin Münster",
+    "author": "Shivam Kumar",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
@@ -17,7 +17,7 @@
   },
   "siteConfiguration": {
     "logo": {
-      "text": "Portfolio"
+      "text": ""
     },
     "navigation": {
       "header": [
